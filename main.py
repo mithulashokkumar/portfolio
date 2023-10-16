@@ -16,3 +16,8 @@ with col2:
     all around the world."""
 
     st.info(content)
+
+content2 = """
+Below you can find some of the apps I have built using Python. Feel free to contact me!
+"""
+st.write(content2)
